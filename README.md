@@ -1,4 +1,4 @@
-# Mask Detection
+#AgriSafe
 Preview of the Project
 
 ![](assets/1.png)
