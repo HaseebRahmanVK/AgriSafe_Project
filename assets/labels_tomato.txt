@@ -1,0 +1,2 @@
+0 Tomato_healthy
+1 Tomato_Spider_mites

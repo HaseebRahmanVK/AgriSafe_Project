@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995994351123",
+    "firebase_url": "https://agrisafe-1aecb-default-rtdb.firebaseio.com",
+    "project_id": "agrisafe-1aecb",
+    "storage_bucket": "agrisafe-1aecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995994351123:android:848dfbdee023a3f5c1f1e6",
+        "android_client_info": {
+          "package_name": "com.example.ml_classifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995994351123-hl09qvivfbvq92ilem5ls15cfnui5anm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawTFDBOuaSLyM1Nr18PuQQOYD2FXlaNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995994351123-hl09qvivfbvq92ilem5ls15cfnui5anm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
